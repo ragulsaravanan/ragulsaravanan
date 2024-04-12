@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ragulsaravanan
-- 👀 I’m interested in ...Development 
+- 👀 I’m interested in ...Developing and creating innovative solutions to real-world problems. 
 - 🌱 I’m currently learning ...fullstack
 - 💞️ I’m looking to collaborate on ...projects that can help me learning 
 - 📫 How to reach me ...ragul.saravanan1603@gmail.com
